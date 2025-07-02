@@ -6,7 +6,7 @@
   link: /activism.html
 - name: Projects
   link: /projects.html
-- name: Blog
-  link: /blog.html
-- name: Tags
-  link: /tags.html
+  # - name: Blog
+  # link: /blog.html
+  #- name: Tags
+  #link: /tags.html
