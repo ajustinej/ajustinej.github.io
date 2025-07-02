@@ -1,0 +1,12 @@
+- name: Home
+  link: /
+- name: Law
+  link: /law.html
+- name: Activism
+  link: /activism.html
+- name: Projects
+  link: /projects.html
+- name: Blog
+  link: /blog.html
+- name: Tags
+  link: /tags.html
