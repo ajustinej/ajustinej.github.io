@@ -1,4 +1,4 @@
-# laz0rbaby.github.io
+# ajustinej.github.io
 
 ## Purpose
 
@@ -15,11 +15,11 @@ such as:
 
 ## How to Use
 
-[laz0rbaby.github.io](https://laz0rbaby.github.io)
+[ajustinej.github.io](https://ajustinej.github.io)
 
 To run locally:
 - Launch wsl
-- `cd /mnt/wsl/laz0rbaby.github.io`
+- `cd /mnt/wsl/ajustinej.github.io`
 - `bundle exec jekyll serve`
 
 Deployment is simply pushing to main. Can deploy from a branch instead under Settings > Pages > Build and deployment
